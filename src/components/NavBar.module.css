@@ -16,4 +16,5 @@
 .navBarLink:hover{
     text-decoration: underline;
     color: #C92071;
+    font-weight: 600;
   }

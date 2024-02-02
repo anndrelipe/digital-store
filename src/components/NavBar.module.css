@@ -1,0 +1,19 @@
+.navBarList {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+  }
+  
+.navBarLink{
+    font-size: 16px;
+    text-decoration: none;
+    color: #474747;
+    transition: 0.2s;
+  }
+  
+.navBarLink:hover{
+    text-decoration: underline;
+    color: #C92071;
+  }

@@ -1,0 +1,17 @@
+.Btn{
+    width: 114px;
+    height: 40px;
+    color: white;
+    font-weight: 600;
+    background-color: #C92071;
+    border-radius: 8px;
+    border-style: none;
+    outline: none;
+    transition: 0.2s;
+    cursor: pointer;
+    letter-spacing: 1px;
+  }
+  
+.Btn:hover{
+    background-color: #991a57;
+  }
